@@ -1,23 +1,137 @@
-<h1 align="center">Hi , I'm Neda</h1>
-<h3 align="center">.NET & Django Developer</h3>
-<h5>I’m a full-stack developer specializing in Django and .NET, with a strong focus on backend engineering, API development, and system optimization. I design and build scalable, secure web applications using modern tools like Docker, GitHub Actions, and PostgreSQL. My work emphasizes clean architecture, performance optimization, and seamless user experiences — always aiming for efficiency, reliability, and maintainability.
+# 👋 Hi, I'm Neda Gilanian
 
-Recent projects include a task management system and an online course platform, both developed with Django, React, and RESTful APIs, featuring JWT authentication and CI/CD pipelines. With a background in Computer Engineering and a broad set of certifications, including Python and web development from Harvard and Microsoft-aligned organizations, I bring a proactive, detail-oriented mindset to every project. I thrive in Agile teams and enjoy solving complex problems through clean code and smart architecture.</h5>
-<ا
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nedagilanian&label=Profile%20views&color=0e75b6&style=flat" alt="nedagilanian" /> </p>
+### Python Developer | Django Developer | Backend Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nedagilanian" alt="nedagilanian" /></a> </p>
+Building scalable web applications with Python, Django, PostgreSQL, Docker and modern development workflows.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nedigilanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nedigilanian" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## ⚡ About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nedagilanian&show_icons=true&locale=en&layout=compact" alt="nedagilanian" /></p>
+I'm a Python Developer with experience in Django backend development, REST APIs, databases and web application architecture.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nedagilanian&show_icons=true&locale=en" alt="nedagilanian" /></p>
+My focus is on building:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedagilanian&" alt="nedagilanian" /></p>
+* 🐍 Python applications
+* 🌐 Django & Django REST Framework APIs
+* 🗄️ PostgreSQL & SQL Server databases
+* 🐳 Dockerized deployments
+* ⚙️ CI/CD with GitHub Actions
+* 📊 Data analysis & automation tools
+* 🚀 Scalable and maintainable backend systems
+
+Currently working on web applications, data-driven solutions and open-source contributions.
+
+---
+
+## 🚀 Featured Projects
+
+### 📋 Task Management System
+
+Django REST Framework + React + PostgreSQL
+
+**Highlights**
+
+* JWT Authentication
+* Role-based access control
+* Task workflow management
+* Docker Compose
+* GitHub Actions CI/CD
+* RESTful APIs
+
+---
+
+### ✈️ Mehrabad Flight Delay Prediction
+
+Machine Learning & Streamlit
+
+**Highlights**
+
+* Flight delay prediction
+* Data preprocessing
+* Random Forest models
+* Interactive dashboard
+* Plotly visualizations
+
+---
+
+### 🎓 Online Course Platform
+
+Django + React
+
+**Highlights**
+
+* User authentication
+* Course management
+* REST API backend
+* PostgreSQL database
+* Responsive UI
+
+---
+
+## 🌟 Open Source Contributions
+
+### Wagtail CMS
+
+✅ Merged Pull Request
+
+**Fix nested submenu labels in slim sidebar**
+
+PR #14379
+
+* Fixed visibility issue for nested submenu items
+* Contributed to Wagtail open-source project
+* Successfully reviewed and merged into main branch
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+
+Python • Django • Django REST Framework • ASP.NET
+
+### Databases
+
+PostgreSQL • SQL Server • SQLite • MySQL
+
+### Frontend
+
+HTML • CSS • JavaScript • React
+
+### DevOps
+
+Docker • GitHub Actions • Git
+
+### Data Science
+
+Pandas • NumPy • Matplotlib • Scikit-Learn
+
+---
+
+## 📊 GitHub Analytics
+
+(Stats cards here)
+
+---
+
+## 🎓 Certifications
+
+* CS50x Harvard University
+* CS50P Python
+* Python Programming
+* Web Development
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn:
+linkedin.com/in/nedigilanian
+
+🐙 GitHub:
+github.com/nedagilanian
+
+---
+
+🚀 Building useful software with Python.
